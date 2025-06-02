@@ -1,30 +1,25 @@
-## Hi there 👋 I'm JJ!
+## Names JJ! Thanks for stopping by! 🙏
 
 Multilingual (English, Cantonese and some Japanese) app developer and educator based in Japan 🇯🇵  
 I build mobile and desktop apps using Flutter, with a focus on tools that support education, language learning, and daily productivity.
 
-All my projects are private due to NDA and stuff so if you wanna see something let me know!!
+All my projects are private (except for random ones I forked 😂) due to NDA and stuff so if you wanna see something let me know!!
 
-### 🔧 What I Do
-- 💻 Develop cross-platform apps with Flutter & Python
-- 📱 Build tools that help streamline learning and communication
-- 🎓 Teach STEM and English to kids aged 4–10
+### 🔧 What I Do/Did
+- 💻 Develop cross-platform apps with Flutter & JavaScript
+- 📱 Build applications that help streamline English learning for young children
+- 🎓 Taught STEM and currently teaching English to kids aged 4–10
 - 📊 Work with Google APIs (Sheets, Drive) to automate and simplify workflows
 
-### 🧠 Currently Exploring
-- 📦 Local-first architecture and data syncing
-- 🤖 AI models for learning support
-- 📐 UI/UX improvements for non-native users
-
-### 🌱 Learning
-- Japanese (Current working on N3!)
-- Game dev with Godot
+### 📚 Currently Learning
+- Japanese (Working on N3!)
+- Godot and its wonders!
 - Deepening my backend/server skills
 
-### 🤝 Looking to Collaborate On
+### 🤝 Looking to Collaborate On/With
 - Education tech ideas
-- Tools that help small teams or creators
-- Language learning or productivity apps
+- A small group of people who
+- Language learning! Especially Japanese!
 
 ### 🎸 A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
@@ -34,4 +29,4 @@ All my projects are private due to NDA and stuff so if you wanna see something l
 ### 📫 Reach Out
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
 
-Thanks for stopping by!
+Have a good one!
