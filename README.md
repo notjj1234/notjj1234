@@ -17,7 +17,7 @@ All my projects are private due to NDA and stuff so if you wanna see something l
 - 📐 UI/UX improvements for non-native users
 
 ### 🌱 Learning
-- Japanese (Finished N4, currently N3 level and rising!)
+- Japanese (Current working on N3!)
 - Game dev with Godot
 - Deepening my backend/server skills
 
