@@ -3,7 +3,13 @@
 Multilingual (English, Cantonese and some Japanese) app developer and educator based in Japan 🇯🇵  
 I build mobile and desktop apps using Flutter, with a focus on tools that support education, language learning, and daily productivity.
 
-All my projects are private (except for random ones I forked 😂) due to NDA and stuff so if you wanna see something let me know!!
+A majority my projects are private, so if you want to see something from me please let me know! They are apps/projects related to helping teachers with their class plans and for students to use during class
+
+### Public Repos!
+https://github.com/notjj1234/speaking_godot_game.git
+This is my Godot game Loqui Quest!
+Its a work in progress right now!
+TLDR: its a 2D topdown RPG game that incorporates speech challenges via microphone
 
 ### 🔧 What I Do/Did
 - 💻 Develop cross-platform apps with Flutter & JavaScript
