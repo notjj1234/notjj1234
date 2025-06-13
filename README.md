@@ -3,7 +3,7 @@
 Multilingual (English, Cantonese and some Japanese) app developer and educator based in Japan 🇯🇵  
 I build mobile and desktop apps using Flutter, with a focus on tools that support education, language learning, and daily productivity.
 
-A majority my projects are private, so if you want to see something from me please let me know! They are mostly apps catered to teachers (for creating class plans, lessons, homwork and etc) and students (to practice their English speaking and reading).
+A majority my projects are private (NDA), so if you want to see something from me please let me know! They are mostly apps catered to teachers (for creating class plans, lessons, homwork and etc) and students (to practice their English speaking and reading).
 
 ### Public Repos!
 -https://github.com/notjj1234/speaking_godot_game.git
@@ -12,10 +12,10 @@ Its a work in progress right now!
 TLDR: its a 2D topdown RPG game that incorporates speech challenges via microphone
 
 ### 🔧 What I Do/Did
-- 💻 Develop cross-platform apps with Flutter & JavaScript
-- 📱 Build applications that help streamline English learning for young children
-- 🎓 Taught STEM and currently teaching English to kids aged 4–10
-- 📊 Work with Google APIs (Sheets, Drive) to automate and simplify workflows
+- Develop cross-platform apps with Flutter & JavaScript
+- Build applications that help streamline English learning for young children (or adults).
+- Taught STEM and currently teaching English to kids aged 4–10.
+- Work with Google APIs (Sheets, Drive) to automate and simplify workflows.
 
 ### 📚 Currently Learning
 - Japanese (Working on N3!)
@@ -30,7 +30,7 @@ TLDR: its a 2D topdown RPG game that incorporates speech challenges via micropho
 ### 🎸 A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
 - I'm passionate about building things that solve real-world problems
-- Based in 神奈川県 (Kawasaki), and open to remote work or creative collabs
+- I live in Kawasaki City Japan.
 
 ### 📫 Reach Out
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
