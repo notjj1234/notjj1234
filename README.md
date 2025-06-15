@@ -17,20 +17,11 @@ TLDR: its a 2D topdown RPG game that incorporates speech challenges via micropho
 - Taught STEM and currently teaching English to kids aged 4–10.
 - Work with Google APIs (Sheets, Drive) to automate and simplify workflows.
 
-### 📚 Currently Learning
-- Japanese (Working on N3!)
-- Godot and its wonders!
-- Deepening my backend/server skills
-
-### 🤝 Looking to Collaborate On/With
-- Education tech ideas
-- A small group of people who
-- Language learning! Especially Japanese!
-
 ### 🎸 A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
 - I'm passionate about building things that solve real-world problems
 - I live in Kawasaki City Japan.
+- Learning Japanese! Studying for N3
 
 ### 📫 Reach Out
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
