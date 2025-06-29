@@ -23,7 +23,8 @@ TLDR: its a 2D topdown RPG game that incorporates speech challenges via micropho
 - I live in Kawasaki City Japan.
 - Learning Japanese! Studying for N3
 
-### 📫 Reach Out
+### 📫 Contact me!
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
+I have a Discord but I'm never on it but if you REALLY want it I can send it to you!
 
 Have a good one!
