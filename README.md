@@ -1,4 +1,4 @@
-## Names JJ! Thanks for stopping by! 🙏
+## Welcome to JJs README!
 
 Multilingual (English, Cantonese and some Japanese) app developer and educator based in Japan 🇯🇵  
 I build mobile and desktop apps using Flutter, with a focus on tools that support education, language learning, and daily productivity.
@@ -11,20 +11,11 @@ A majority my projects are private (NDA), so if you want to see something from m
 Its a work in progress right now!
 TLDR: its a 2D topdown RPG game that incorporates speech challenges via microphone
 
-### 🔧 What I Do/Did
-- Develop cross-platform apps with Flutter & JavaScript
-- Build applications that help streamline English learning for young children (or adults).
-- Taught STEM and currently teaching English to kids aged 4–10.
-- Work with Google APIs (Sheets, Drive) to automate and simplify workflows.
-
 ### 🎸 A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
-- I'm passionate about building things that solve real-world problems
-- I live in Kawasaki City Japan.
 - Learning Japanese! Studying for N3
 
 ### 📫 Contact me!
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
 I have a Discord but I'm never on it but if you REALLY want it I can send it to you!
 
-Have a good one!
