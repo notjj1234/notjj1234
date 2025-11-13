@@ -13,7 +13,7 @@ TLDR: its a 2D topdown RPG game that incorporates speech challenges via micropho
 
 ### 🎸 A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
-- Learning Japanese! Studying for N3
+- Learning Japanese! Studying for N3 (Most recent try was in 2024, 10 points from passing :( sad )
 
 ### 📫 Contact me!
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
