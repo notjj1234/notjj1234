@@ -15,11 +15,11 @@ A majority my projects are private (NDA), so if you want to see something from m
 Its a work in progress right now!
 TLDR: its a 2D topdown RPG game that incorporates speech challenges via microphone
 
-### 🎸 A Bit More About Me
+### A Bit More About Me
 - I love music, and I’m part of a small rock band 🎶
 - Learning Japanese! Studying for N3 (Most recent try was in 2024, 10 points from passing :( sad )
 
-### 📫 Contact me!
+### Contact me!
 Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
 I have a Discord but I'm never on it but if you REALLY want it I can send it to you!
 
