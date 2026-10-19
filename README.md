@@ -1,25 +1,31 @@
-## Welcome to JJs README!
+# Hello, I'm JJ
 
-Check out my website here!
-https://jjorallo.netlify.app/
+App developer and educator based in Japan. I speak English, Cantonese, and some Japanese.
 
-Multilingual (English, Cantonese and some Japanese) app developer and educator based in Japan 🇯🇵  
-I build mobile and desktop apps using Flutter, with a focus on tools that support education, language learning, and daily productivity.
+I build mobile and desktop apps, mostly with Flutter, focused on education, language learning, and everyday productivity.
 
-A majority my projects are private (NDA), so if you want to see something from me please let me know and I'll recreate it (to avoid NDA lol)! They are mostly educational apps for teachers (for creating class plans, lessons, homwork and etc) and students (to practice their English speaking and reading).
+**Website:** [jjorallo.netlify.app](https://jjorallo.netlify.app/)
 
-### Public Repos!
-- https://github.com/notjj1234/speaking_godot_game.git
-- https://github.com/notjj1234/sns_pocketbase_app.git
-- This is my Godot game Loqui Quest!
-Its a work in progress right now!
-TLDR: its a 2D topdown RPG game that incorporates speech challenges via microphone
+## What I'm working on
 
-### A Bit More About Me
-- I love music, and I’m part of a small rock band 🎶
-- Learning Japanese! Studying for N3 (Most recent try was in 2024, 10 points from passing :( sad )
+- **[Audio Tools](https://github.com/notjj1234/jj_audio_website)**: a desktop app for stem separation and audio practice, built because Moises got too expensive. Windows and macOS installers.
+- **[Loqui Quest](https://github.com/notjj1234/speaking_godot_game)**: a 2D top-down RPG in Godot where you clear speech challenges using your microphone. Work in progress.
+- **[SNS PocketBase App](https://github.com/notjj1234/sns_pocketbase_app)**: a social app built on PocketBase.
 
-### Contact me!
-Feel free to DM me on GitHub or connect via email: **orallojohnjames@gmail.com**
-I have a Discord but I'm never on it but if you REALLY want it I can send it to you!
+## About my private work
 
+Most of my projects are under NDA. They're mostly educational apps: tools that help teachers plan classes, lessons, and homework, and apps that help students practice English speaking and reading. If you want to see something like that, message me and I'll build a version that stays clear of the NDA.
+
+## Tech I use
+
+Flutter · Dart · Python · Godot · PocketBase
+
+## A bit more about me
+
+- I play in a small rock band
+- Studying Japanese. I missed N3 by 10 points in 2024, so I'm going again
+
+## Contact
+
+**orallojohnjames@gmail.com**
+sPainGaming#6742 on Discord (with the minecraft bread icon)
