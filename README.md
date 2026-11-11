@@ -9,6 +9,7 @@ I build mobile and desktop apps, mostly with Flutter, focused on education, lang
 ## What I'm working on
 
 - **[Audio Tools](https://github.com/notjj1234/jj_audio_website)**: a desktop app for stem separation and audio practice, built because Moises got too expensive. Windows and macOS installers.
+- **[Audio Tabs](https://github.com/notjj1234/audiotabs)**: a desktop app for audio to tab generation, built for quick tab and chord chart generation.
 - **[Loqui Quest](https://github.com/notjj1234/speaking_godot_game)**: a 2D top-down RPG in Godot where you clear speech challenges using your microphone. Work in progress.
 - **[SNS PocketBase App](https://github.com/notjj1234/sns_pocketbase_app)**: a social app built on PocketBase.
 
